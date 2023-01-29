@@ -32,6 +32,7 @@ https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net452
 
 
 --------------------------其他问题--------------------------
+
 1)提供免费试用：一周；
 
 2)正式：968/月/账户（具体折扣与活动请咨询QQ:1415595112 微信：uzdaban 或者扫下方二维码）；
@@ -45,8 +46,8 @@ https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net452
 
 扫描添加联系方式
 
-![lianxi-wx](https://user-images.githubusercontent.com/477210/215307773-4a454f28-1f0b-43fb-b7ce-cfc58568d84a.jpeg)  
-![lianxi-qq](https://user-images.githubusercontent.com/477210/215307767-f109f918-7754-4b1f-880a-e6a46e2708f7.jpeg)
+![lianxi-wx](https://user-images.githubusercontent.com/477210/215308199-262e09dc-d691-4b5e-8a94-024c1707d7e1.jpeg)
 
+![lianxi-qq](https://user-images.githubusercontent.com/477210/215308206-5c91c1c3-926b-4306-afcc-1c3be4064588.jpeg)
 
 
