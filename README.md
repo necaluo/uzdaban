@@ -18,6 +18,11 @@ https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net452
 或者下载软件解压后,找到“不能运行需要安装包”，双击“NDP452-KB2901954-Web.exe”安装，
 
 
+
+
+
+
+
 --------------------------其他问题--------------------------
 1)提供免费试用：一周；
 
