@@ -1,8 +1,8 @@
 # uzdaban
 柚子打板,程序打板,A股交易,程序化交易,机器打板
 
-A股交易,程序打板,价格全市场最低;非破解,非外挂,无任何法律风险;
-更多详情 www.uzdaban.cn  提供免费试用;
+A股交易,程序打板,价格全市场最低;非破解,非外挂,无任何法律风险; 
+uzdaban.zip 下载试用更多详情 www.uzdaban.cn  提供免费试用;
 
 ![jietu1](https://user-images.githubusercontent.com/477210/215307515-2c8ea785-7573-4b90-a138-3ef7dcf67930.jpg)
 ![jietu2](https://user-images.githubusercontent.com/477210/215307518-393362e8-4db7-42f5-87c8-679a884196b5.jpg)
