@@ -49,3 +49,13 @@ https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net452
 ![lianxi-qq](https://user-images.githubusercontent.com/477210/215308206-5c91c1c3-926b-4306-afcc-1c3be4064588.jpeg)
 
 
+--------------------------20230407更新
+1:开发了网页版,和pc端同步器
+
+![1680852290357](https://user-images.githubusercontent.com/477210/230563248-c1d31c48-f317-4185-a673-21d8aa13ca13.jpg)
+![1680852421614](https://user-images.githubusercontent.com/477210/230563270-8d81da83-2348-4d4e-a52a-7303c08ca01e.jpg)
+![1680852516688](https://user-images.githubusercontent.com/477210/230563290-370e8e8e-54d8-4277-b56c-553813248fb1.jpg)
+![WX20230407-152614@2x](https://user-images.githubusercontent.com/477210/230563306-408e2ae9-dce6-46e2-95a5-52f00f5f2afb.png)
+
+
+
